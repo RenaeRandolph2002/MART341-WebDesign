@@ -1,0 +1,10 @@
+Q: What is a directory, and what is its relationship to files?
+A: Directories for the web are folderes. They are used to organize files into catigories to make web design possible and efficant. 
+
+Q: How are VCS useful?
+A: Version control sytems, or VCS are used to save progress by rembering the changes that have been made. Giving you the ability to track changes, undo progress
+and share with others to get feedback and work together. 
+
+Q: Do you have a favorite artistic medium? Why is it your favorite?
+A: My personal favorite artistic medium is digital art programs, particually Procreate. I enjoy the unlimated color pallete and the many tools 
+that traditional mediums dont have such as, undo, zooming in, steady brush, and many others. 
