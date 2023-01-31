@@ -1,0 +1,14 @@
+Q: What is the relationship between an IP address and the DNS?
+A: IP and DNS are two diffrent types of adresses. An IP adress is an
+actual adress such as, 1234 Montana way. A DNS adress is a logical adress, usally a name to respresnt the
+adress such as, Renae's home. This allows the computer to use DNS names to get
+the asscoaited IP adress. 
+
+Q: What is a cookie?
+A: Cookies are used by websites as text sent to the browser the website is being used on.
+Cookies help websites remember information on the users previous activity
+
+Q: What are the three essential parts of a URL?
+A: The three esential parts are protocal, domain, and paths. Protocols comunicate with
+web server about how the browser will work. Domains are names used to identify services of the internet.
+Lastly, paths offer the location of the page, website, or etc.
