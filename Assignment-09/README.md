@@ -1,4 +1,4 @@
-<img src="image/screenshot.png"/>
+<img src="images/screenshot.png"/>
 
 
 Q: Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?
