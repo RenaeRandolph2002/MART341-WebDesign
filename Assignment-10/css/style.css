@@ -1,0 +1,39 @@
+body {
+    background-color: #F28080;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+div {
+    border: 5px solid #473E5C;
+    display: inline-block;
+}
+
+img {
+    border-radius: 30%;
+    border: 10px solid #5C5173;
+}
+
+.inspiration {
+    background-color: #E7E0DB;
+    height: 1200px;
+    width: 900px;
+    display: inline-block;
+}
+
+#title {
+    font-size: 50px;
+    background-color: #473E5C;
+    color:#E7E0DB; 
+    margin: auto;
+    padding: 20px;
+}
+
+.palette {
+    background-color:#E7E0DB; 
+    width: 900px;
+}
+
+
+
+
