@@ -1,0 +1,170 @@
+#header{
+    background-image: url("../images/flowers.jpg");
+}
+
+h1{
+    color: black;
+    font-family: CurlyStars;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+}
+
+#title:hover{
+    letter-spacing: 1em;
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: black;
+    color: black;
+}
+
+.titleBorder:hover{
+    background-color: aliceblue;
+    color: black;
+    text-indent: 11em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: black;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 640px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content-paragraph:first-line{
+    font-size: 30px;
+    font-family: CurlyStars;
+    line-height: 40px;
+}
+
+.poem-link{
+    text-decoration: none;
+    color: aliceblue
+}
+.poem-link:hover{
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.poem-link:visited{
+    color: blue;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 500px;
+}
+
+img {
+    border: 20px solid black;
+}
+
+#img-link:hover{
+    border: 50px solid black;
+}
+
+#first-bar {
+    margin-top: 4em;
+    padding: 1em;
+}
+
+/* Menu */
+header {
+    position: fixed;
+    background-color: aliceblue;
+    width: 99%;
+    height: 5em;
+    top: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em;
+    background-color: black;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    min-width: 6em;
+    text-align: center;
+}
+
+.menu-item:hover{
+    background-color: blue;
+    color: aqua;
+}
+
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: blue;
+    background-color: white;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a{
+    color: black;
+}
+
+/* style doprdown display */
+.dropdown-item {
+    display: block;
+    text-align left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 6em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: blue;
+}
+
+#Foundation:hover{
+    border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover {
+    border-radius: 1em 1em 0em 0em;
+}
+
+/* adding site name */
+.site-name {
+    color: black;
+    float: left;
+    min-width: 6em;
+    padding: 0.5 1em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin: 1em .2em;
+}
